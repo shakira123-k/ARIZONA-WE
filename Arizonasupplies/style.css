@@ -201,7 +201,7 @@ div.button-group button{
 
         }
         nav{
-            justify-content: space-around;
+            justify-content: space btween;
         }
         h1{
             font-size: 2.2rem;
