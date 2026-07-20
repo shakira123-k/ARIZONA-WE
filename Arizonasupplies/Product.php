@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prouducts</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+    <a href="Home.php">Home</a>
+<a href="About Us.php">About Us</a>
+<a href="Product.php"> Products</a>
+<a href="Contact Us.php">Contact Us</a>
+</nav>
+<main>
+<h1>Our Products</h1>
+<h3>Generators</h3>
+<div class="product-grid">
+    <div class="product-card">
+<img src="images/dg.set 15kva.webp" alt="images">
+<p></p>15 kVA (12 kW) Kirloskar generator is a highly reliable power solution ideal for small-to-medium commercial operations, farmhouses, and homes. Running on diesel, it features robust multi-cylinder engines, brushless self-regulated alternators, and delivers steady continuous power with a fuel efficiency of roughly 2.5 to 4 liters per hour depending on the load.</p>
+</div>
+<div class="product-card">
+<img src="images/20-kva-kirloskar.webp" alt="images">
+<p> An industrial-grade, highly reliable power solution for medium-sized businesses, apartment buildings, and construction sites. </p>
+</div>
+<div class="product-card">
+<img src="images/banner.webp" alt="images">
+
+<p>A highly reliable, heavy-duty power solution, ideal as a backup or primary power source for medium-sized businesses, clinics, apartments, and commercial operations.</p>
+</div>
+<div class="product-card">
+<img src="images/silent generatos.webp" alt="images">
+<p>Kirloskar silent generators are engineered to provide quiet, reliable, and eco-friendly power backup. Equipped with advanced acoustic enclosures, they typically operate below 75 dB(A), making them ideal for homes, businesses, hospitals, and noise-restricted urban areas.</p>
+</div>
+</div>
+<footer>
+    <p class="footer-text">&copy; 2026 Arizona Supplies Limited Uganda. All Rights Reserved. </p>
+</footer>
+
+
+</main>
+
+</body>
+
+</html>

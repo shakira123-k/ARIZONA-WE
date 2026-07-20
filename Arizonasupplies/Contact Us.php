@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="Home.php">Home</a>
+<a href="About Us.php">About Us</a>
+<a href="Product.php"> Products</a>
+<a href="Contact Us.php">Contact Us</a></nav>
+
+
+<h1>Contact Us</h1>
+<form id="contactForm"action="https://api.web3forms.com/submit" method="POST" >
+
+<input type="hidden" name="access_key" value="77f97959-545f-4cac-8d55-d067edbe3bec">
+    <label for="">Fullname</label>
+<input type="text" id="Fullname" name="Fullname" placeholder="Fullname" pattern="[A-Za-z\s]+" required  ><br>
+<label >Email</label>
+<input type="email" id="Email" name="Email" placeholder="Email" required><br>
+<label >Phone number</label>
+<input type="Telephone" id="Telephone" name="Phone number" placeholder="Telephone Number" pattern="[0-9]+" required><br>
+<label >Leave a message</label>
+<input type="text" id="Message" name="Message" placeholder=" Message" required>
+<button>Submit</button>
+
+</form>
+<script src="r.js"></script>
+
+<p>Email:info@arizonasupplies.com</p>
+<p>Location:Tirupati Business Park PLOTNo.587,UNIT No.305 Namanve Industrial Park,Uganda.</p>
+<p>Phone Number:+25670527535|+256773180065
+</p>
+
+    <footer>
+    <p class="footer-text">&copy; 2026 Arizona Supplies Limited Uganda. All Rights Reserved. </p>
+</footer>
+
+</body>
+</html>

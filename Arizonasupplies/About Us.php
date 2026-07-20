@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="Home.php">Home</a>
+<a href="About Us.php">About Us</a>
+<a href="Product.php"> Products</a>
+<a href="Contact Us.php">Contact Us</a>
+    </nav>
+
+    <h1>About Us</h1>
+    <p>Arizona Supplies Limited Uganda is a registered Ugandan equipment and engineering trading company specializing in commercial and industrial power solutions.</p>
+<p>The company Head Office is located at Tirupati Business Park, Plot number 587, unit number 305, Namanve Industrial Park with its operational warehouses and maintenance facilities strategically located in Namanve.</p>
+
+    <p>Operating from these hubs the firm serves as the exclusive authorized distibutors of Kirloskar engines and diesel generator sets across East Africa covering Uganda, DRC, Rwanda, Burundi.</p>
+
+    <h2>Vision</h2>
+    <p>"To provide better power for a limitless tommorrow by keeping business powered with durable and fuel-efficient solution"</p>
+    <h2>Mission</h2>
+    <p>"To deliver reliable, efficient and application specific power solutions across commercial, industrial and institution sectors"</p>
+    <h2>Objectives of the organization</h2>
+    <p>To maintain and excute exclusive international manufacturer distributorship(specifically with Kirloskar).</p>
+
+    <p>To drive industrial and commercial empowerement across East Africa through reliable power infrastructure.</p>
+    <p>To strategically expand regional market share across Uganda, DRC, Rwanda,Burundi.</p>
+
+  <h2>  Core operations and Technical Scope</h2>
+  <h5>Equipment and products</h5>
+  <p>Kirloskar based diesel generator sets</p>
+  <p>LTIMV panels</p>
+  <p>Switch gears</p>
+  <p>Busbar trunking systems</p>
+  <h5>Engineering services</h5>
+  <p>Technical consultation</p>
+  <p>Engine load sizing</p>
+  <p>Equipment installation</p>
+  <p>After sales technical support</p>
+    <h2>Leadership</h2>
+    <p>The organisation is managed by board of Directors including MR.ASHISH ARORA and MR.AYAAN JASANI.</p>
+    <img src="images/15kva.webp" alt="images">
+    <img src="images/15kva.webp" alt="images">
+
+</p>
+<footer>
+    <p class="footer-text">&copy; 2026 Arizona Supplies Limited Uganda. All Rights Reserved. </p>
+</footer>
+
+
+    
+</body>
+</html>
